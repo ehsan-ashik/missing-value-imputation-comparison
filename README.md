@@ -7,10 +7,10 @@ This is a R project for *CSE 5717 - Big Data Analytics* where different **Missin
 * A fundamental challenge for any big data analytics or data mining tasks is to ensure data quality.
 
 * Raw data is often incomplete, inconsistent, and inaccurate - combined with:
-1. Noise
-2. Outliers
-3. Inconsistencies
-4. Missing values
+ 1. Noise
+ 2. Outliers
+ 3. Inconsistencies
+ 4. Missing values
 
 * Raw data must be processed and shaped into quality data – requiring preprocessing and cleanup, a crucial step of data mining.
 
